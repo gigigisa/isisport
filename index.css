@@ -1,0 +1,162 @@
+main{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7e0e7; /* Cor de fundo rosa claro */
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    background-color: #ff66b2; /* Rosa mais forte */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+    margin: 30px 0;
+}
+.sobre2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 300px;
+    height:300px;
+}
+
+.pipi{
+    display: flex;
+    margin-top: 800px;
+    justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+h2 {
+    color: #ff3385; /* Rosa intermediário */
+    font-size: 30px;
+margin:0px;
+padding: 0px;
+margin-left: 200px;
+margin-top: 10px;
+font-size: 50px;
+}
+
+p{
+  
+    display: flex;
+    margin-top: 70px;
+    font-size:x-large;
+    margin-left: 200px;
+}
+
+.projeto1 {
+    background-color: #fff0f5; /* Rosa muito claro */
+    border: 1px solid #ff66b2;
+    padding: 80px;
+   margin-top: 300px;
+    border-radius: 8px;
+   width: 100px;
+   margin-right: 700px;
+}
+
+
+.isa1{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 600px;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 17px;
+    color: #ff3385;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #ff66b2;
+    font-size: 17px;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+
+.isa{
+    border: none;
+    width: 400px;
+    height: 400px;
+}
+
+.titi{
+  font-size: x-large;  
+  color: #ff3385;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.oioi{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    font-size: 45px;
+   justify-content: space-around;
+   
+  }
+
+  li{
+    list-style: none;;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal
+  }
+
+  .xixi{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .pitchula{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 200px;
+  }
